@@ -1,4 +1,4 @@
 <?php
-echo 'salam';
+echo '<h1>salam</h1>';
 
 ?>
